@@ -1,0 +1,2 @@
+# SopGrupp
+github för soptunnegrupp
